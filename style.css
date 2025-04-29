@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#taskmanager > .task {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.important {
+  color: red;
+}
+
+.completed {
+  text-decoration: line-through;
+}
